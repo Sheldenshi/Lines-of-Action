@@ -1,9 +1,4 @@
-This directory contains a skeleton for CS61B Project 2.
 
-Although some of what's in here might seem mysterious to you, try to 
-understand what it's all for.  Don't be afraid to ask us about it.
-The skeleton files are YOURS TO CHANGE AS YOU DESIRE OR THROW AWAY
-ENTIRELY!!!
 
 CONTENTS:
 

@@ -1,5 +1,5 @@
 # Lines-of-Action
-
+# ** The Auto player part of the code had been modified so people can't use my heuristic function for future tournaments.
 CONTENTS:
 
 ReadMe			This file.
